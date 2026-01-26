@@ -3,6 +3,7 @@ import java.sql.*;
 public class TestJDBC {
     public static void main(String[] args) {
         try {
+            //This program is the first progra for the jdbc 
             // For MySQL 9.x, the driver class is different
             Class.forName("com.mysql.cj.jdbc.Driver");
             

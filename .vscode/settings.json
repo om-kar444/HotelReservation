@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\omkar\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\P7EOMFZ0\\mysql-connector-j-9.4.0[1].jar"
+    ]
+}
